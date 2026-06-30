@@ -1,5 +1,7 @@
 # NIS2 Compliance Agent
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 En Claude Code agent som granskar kod och dokumentation mot EU:s NIS2-direktiv (Directive 2022/2555) för cybersäkerhet.
 
 ## Installation
